@@ -6,4 +6,4 @@ socialLink.addEventListener('click', function () {
     shareLink.classList.toggle('active');
 })
 
-// Developed By SeyedMohammadMahdi Kiaei
+// Developed By Mohammad Kiaei
